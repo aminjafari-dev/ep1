@@ -128,8 +128,6 @@ class SolutionPage extends StatelessWidget {
                   ),
                 ),
               )
-          //   staggeredTileBuilder: (int index) =>
-          //       StaggeredTile.fit(1),
           ),
     );
   }
